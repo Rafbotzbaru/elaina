@@ -5,7 +5,7 @@ const chalk = require('chalk')
 global.self = false //jadiin true klo gk mau fitur bot lu di pke sama org lain
 
 // setting
-global.ownername ="RafliKunn"
+global.ownername ="Asyraf"
 global.ownernumber = "62895410068780"
 global.botname = "RflBotz Ofc"
 global.thumbnail = fs.readFileSync("./image/elaina.jpg") //sesuaikan dengan nama foto
@@ -15,7 +15,7 @@ global.limit = {
 		free:20,
 		premium:1000
 	}
-global.session_name = "session.json"
+global.session_name = "frezz.data.json"
 
 
 let file = require.resolve(__filename)
